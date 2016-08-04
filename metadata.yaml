@@ -1,0 +1,45 @@
+_repo: The-Reef_283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: "The Reef is a 1912 novel by American writer Edith Wharton. It was published\
+  \ by D. Appleton & Company. It concerns a romance between a widow and her former\
+  \ lover. The novel takes place in Paris and rural France, but primarily features\
+  \ American characters. While writing the novel, Edith Wharton visited England, Sicily,\
+  \ and Germany, among other locations. In a letter to Bernard Berenson in November\
+  \ 1912, Wharton expressed regret regarding her novel, calling it a “poor miserable\
+  \ lifeless lump”. She wrote, “Anyhow, remember it’s not me, though I thought it\
+  \ was when I was writing it—& that next time I’m going to do something worthwhile!!”\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '283'
+  wikidata: Q7760006
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Americans -- France -- Fiction'
+- GITenberg
+title: The Reef
+url: http://www.gutenberg.org/ebooks/283
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Reef_(novel)
